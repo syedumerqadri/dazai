@@ -1,7 +1,6 @@
 ![](https://github.com/syedumerqadri/dazai/blob/master/Untitled.jpg)
 #                               Dazai v1.0 | Android Forensics Tool 
-## This is basic android forensics tool written in python it's use adb shell to intract with
-## with device and grab information about it
+## This is basic android forensics tool written in python it's use adb shell to intract with device and grab information about it
 
 ## Features:
 
