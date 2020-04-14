@@ -30,3 +30,6 @@ and using special command "dazai" you can create a full report in HTML format
 2. connect it with usb and turn on debugging mode
 3. Use the tool with command:
    python dazai.py
+
+## Platform:
+Curruntly it's only suppourted on Linux
