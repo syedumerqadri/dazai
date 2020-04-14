@@ -3,7 +3,7 @@
 ## This is basic android forensics tool written in python it's use adb shell to intract with
 ## with device and grab information about it
 
-##Features:
+## Features:
 
           [1] List supported file system
           [2] List Mount Point
@@ -21,11 +21,11 @@
 
 and using special command "dazai" you can create a full report in HTML format
 
-##Installation:
+## Installation:
 1. chmod +x setup.sh
 2. ./setup.sh
 
-##Usage:
+## Usage:
 1. For turn on ADB bridge on your android device
 2. connect it with usb and turn on debugging mode
 3. Use the tool with command:
