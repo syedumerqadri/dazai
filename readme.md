@@ -26,7 +26,7 @@ and using special command "dazai" you can create a full report in HTML format
 2. ./setup.sh
 
 ## Usage:
-1. For turn on ADB bridge on your android device
+1. Turn on ADB bridge on your android device
 2. connect it with usb and turn on debugging mode
 3. Use the tool with command:
    python dazai.py
