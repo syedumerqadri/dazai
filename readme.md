@@ -1,4 +1,5 @@
 ![](https://github.com/syedumerqadri/dazai/blob/master/Untitled.jpg)
+![](https://github.com/syedumerqadri/dazai/blob/master/Screenshot 2020-04-14 14:52:16.png)
 #                               Dazai v1.0 | Android Forensics Tool 
 ## This is basic android forensics tool written in python it's use adb shell to intract with device and grab information about it
 
