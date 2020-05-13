@@ -32,4 +32,4 @@ and using special command "dazai" you can create a full report in HTML format
    python dazai.py
 
 ## Platform:
-Curruntly it's only suppourted on Linux
+Curruntly it's only supported on Linux
